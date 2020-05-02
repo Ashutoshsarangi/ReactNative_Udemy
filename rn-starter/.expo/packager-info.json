@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 869,
-  "expoServerNgrokUrl": "https://ss-x64.anonymous.rn-starter.exp.direct",
-  "packagerNgrokUrl": "https://packager.ss-x64.anonymous.rn-starter.exp.direct",
-  "ngrokPid": 878
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
