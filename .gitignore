@@ -3,3 +3,6 @@
 
 # Add Node_module Folder for the Food Project.
 /food/node_modules
+
+# Add Node_module Folder for the blog Project.
+/blog/node_modules
