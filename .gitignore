@@ -6,3 +6,7 @@
 
 # Add Node_module Folder for the blog Project.
 /blog/node_modules
+
+
+# Add Node_module Folder for the json Server Project.
+/jsonServer/node_modules
