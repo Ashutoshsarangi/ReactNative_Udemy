@@ -10,3 +10,10 @@
 
 # Add Node_module Folder for the json Server Project.
 /jsonServer/node_modules
+
+
+# Add Node_module Folder for the Album Project.
+/Albums/node_modules
+
+# Add Node_module Folder for the tracks Project.
+/tracks/node_modules
